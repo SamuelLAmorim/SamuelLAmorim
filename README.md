@@ -67,7 +67,7 @@ Aqui estão as tecnologias que domino, apresentadas com os *badges* originais:
 
 | Social | Link |
 | :--- | :--- |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samuel-leal-amorim-28a4b22b3/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BZJ1%2Bnb%2BZRZSEf2NTyWx9Hw%3D%3D) | [Samuel Leal Amorim (LinkedIn)](https://www.linkedin.com/in/samuel-leal-amorim-28a4b22b3/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BZJ1%2Bnb%2BZRZSEf2NTyWx9Hw%3D%3D) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-leal-amorim-28a4b22b3/) | [Samuel Leal Amorim (LinkedIn)](https://www.linkedin.com/in/samuel-leal-amorim-28a4b22b3/) |
 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_.amorim06/#) | [Instagram (@\_.amorim06)](https://www.instagram.com/_.amorim06/#) |
 
 ###### Visitantes do Perfil: [![](https://visitcount.itsvg.in/api?id=Amorimessi&icon=0&color=4)](https://visitcount.itsvg.in)
