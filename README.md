@@ -50,7 +50,9 @@ I am an **analytical** and **results-oriented** professional, motivated to build
 
 I am actively seeking opportunities to:
 1. Apply Machine Learning to real-world business problems.
-2. Expand my knowledge in **Cloud (Azure)** and Data Engineering.
+2. Apply my knowledge to real-world projects that combine technology, business, and significant impact.
+3. Continuously improve my technical skills.
+4. Expand my knowledge and obtain certifications.
 
 ---
 
