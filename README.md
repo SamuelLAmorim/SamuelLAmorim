@@ -1,4 +1,4 @@
-# 🇺🇸 and 🇧🇷 
+# English(🇺🇸) and Portuguese(🇧🇷) 
 # ✨ Samuel Leal Amorim | AI, Machine Learning & Data Science Student
 
 ## 🚀 Overview
