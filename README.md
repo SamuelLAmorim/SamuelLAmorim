@@ -31,12 +31,16 @@ I have academic and practical experience focused on the Data and AI ecosystem:
 
 My current projects and roles reflect my transition into the data field:
 
-* **Research & Development (PIBITI - UnB):**
-    * Developing software for **automated analysis** and dataset creation using Machine Learning, achieving a confidence threshold higher than **70%**.
+* **Research and Development (PIBITI - UnB):**
+    * Development of software for **automated analysis** and creation of datasets using Machine Learning, achieving a confidence threshold greater than **70%**.
 * **Computer Vision Systems:**
-    * Implementing **YOLO** models for object detection and integrating them with interactive interfaces.
-* **Automation & Efficiency:**
-    * Proven track record of improving administrative and operational processes through programming logic and requirements analysis.
+    * Implementation of **YOLO** models for object detection and integration with interactive interfaces.
+* **Financial Education Projects:**
+    * Development of **structured learning materials**, *workshops*, and modules focused on **personal finance** (budgeting, expense control, planning, and investments) for university students.
+* **Computer Vision Systems:**
+    * Creation of **interactive systems** using **YOLO** models for real-time detection and other Computer Vision applications.
+* **Automation and Efficiency:**
+    * History of improving administrative and operational processes using programming logic and requirements analysis.
 
 ---
 
@@ -61,6 +65,8 @@ Main tools for the Data Science ecosystem:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ---
 
